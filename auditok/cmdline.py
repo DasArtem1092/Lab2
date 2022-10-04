@@ -33,7 +33,7 @@ __date__ = "2015-11-23"
 __updated__ = "2021-03-01"
 
 
-def main(argv=None):
+def main(argv=None):                                               # МОЙ КОММЕНТАРИЙ!
     program_name = os.path.basename(sys.argv[0])
     if argv is None:
         argv = sys.argv[1:]
