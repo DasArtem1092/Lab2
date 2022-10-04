@@ -1,6 +1,7 @@
 web/
 *pyc
-auditok/__pycache__
+auditok/
+cmdline.py 
 .*.swp
 tags
 build
