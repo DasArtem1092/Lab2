@@ -13,7 +13,7 @@ with open("auditok/__init__.py", "rt") as f:
 setup(
     name="auditok",
     version=version,
-    url="http://github.com/amsehili/auditok/",
+    url="http://github.com/amsehili/auditok/",          #Мой комментарий!
     license="MIT",
     author="Amine Sehili",
     author_email="amine.sehili@gmail.com",
